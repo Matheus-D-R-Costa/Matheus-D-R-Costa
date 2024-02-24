@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&height=45&lines=Hello+world!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=40&pause=10000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&height=45&lines=Hello+world!" alt="Typing SVG" /></a>
 </p>
 <hr>
 <h4 align="center"></Strong>Estudante de Análise e Desenvolvimento de Sistemas no Senac (Serviço Nacional de Aprendizagem Comercial)</Strong>
@@ -10,7 +10,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-D-R-Costa&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
    <br>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&height=45&lines=Skills" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=40&pause=10000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&height=45&lines=Skills" alt="Typing SVG" /></a>
 <hr>
 <div align="center" valign="top"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
