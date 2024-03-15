@@ -10,7 +10,7 @@
 <br><br><br>
 <div align="center">
   <a href="https://github.com/Matheus-D-R-Costa">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheus-D-R-Costa&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheus-D-R-Costa&show_icons=true&theme=highcontrast&hide_border=false&include_all_commits=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-D-R-Costa&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
    
