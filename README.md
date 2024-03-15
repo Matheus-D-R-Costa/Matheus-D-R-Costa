@@ -11,6 +11,7 @@
 <div align="center">
   <a href="https://github.com/Matheus-D-R-Costa">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheus-D-R-Costa&show_icons=true&theme=highcontrast&hide_border=false&include_all_commits=true"/>
+   <br>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-D-R-Costa&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
    
