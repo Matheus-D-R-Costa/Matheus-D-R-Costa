@@ -26,10 +26,12 @@
 #
 
 <div align="center" valign="top"><br>
-  <a href="https://"><img height="40" src="https://img.shields.io/badge/html5-101419?style=for-the-badge&logo=html5&logoColor=%23E34F26" alt="html5"></a>
-  <a href="https://"><img height="40" src="https://img.shields.io/badge/css3-101419?style=for-the-badge&logo=css3&logoColor=%231572B6" alt="css3"></a>
+  <a href="https://"><img height="40" src="https://img.shields.io/badge/java-101419?style=for-the-badge&logo=coffeescript&logoColor=D43A02" alt="Java"></a>
+  <a href="https://"><img height="40" src="https://img.shields.io/badge/spring-101419?style=for-the-badge&logo=spring" alt="spring framework"></a>
  <a href="https://"><img height="40" src="https://img.shields.io/badge/JavaScript-101419?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
+  <a href="https://"><img height="40" src="https://img.shields.io/badge/node-101419?style=for-the-badge&logo=nodedotjs" alt="node.js"></a>
  <a href="https://"><img height="40" src="https://img.shields.io/badge/Swift-101419?style=for-the-badge&logo=swift&logoColor=%23F05138" alt="Swift"></a>
+ 
 </div>
 <br>
 
