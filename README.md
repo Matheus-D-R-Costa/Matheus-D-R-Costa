@@ -40,4 +40,7 @@
 <div align="center">
  
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+  <h2 align="center">👁️ Views</h3>
+<p align="center"><img src="https://count.getloli.com/get/@Matheus-D-R-Costa?theme=rule34" /></p>
   
